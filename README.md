@@ -1,9 +1,7 @@
-Please keep in mind that I was not able to distribute the app since I am under 18. 
-However, everything is completely functional and is ready to be distributed.
-
-
 CoSpend is an iOS application I created that can be used among people living with roommates to reduce conflicts.
 
+![Screen Shot 2021-03-25 at 10 01 56 PM](https://user-images.githubusercontent.com/55883282/112566859-22107400-8db6-11eb-935b-dee1198f299e.png)
+![Screen Shot 2021-03-25 at 10 02 12 PM](https://user-images.githubusercontent.com/55883282/112566875-276dbe80-8db6-11eb-97e2-534acb6c7f88.png)
 
 In the Home tab, there is a text field for the users to enter the address of their shared house, in case they forget them. 
 Below that, there are the universal house rules of roommates.
